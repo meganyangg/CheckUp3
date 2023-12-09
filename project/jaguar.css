@@ -1,0 +1,31 @@
+
+#quiz 
+{
+    margin: 0 auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+/*#question1 
+{
+    top: 160px;
+	left: 70px;
+	right: 70px;
+	bottom: 70px;
+	padding: 20px 20px 20px 40px;
+	font-size: 20px;
+	z-index: 2;
+	font-family: georgia;
+	position:  absolute;    
+}*/
+
+#quiz-container
+{
+    position: absolute;
+    font-size: 15px;
+    top: 100px;
+    left: 10 px;
+    width: 400px;
+    margin: 200px; 
+
+}

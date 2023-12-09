@@ -1,0 +1,4 @@
+New things:
+  - Randomizer completed on jaguar, need to finish up css - orca Randomizer is started
+  - New pages HTML created with animals: Rocky Mountains, Himalayan Mountains, Pacific Ocean
+  - Position abasolute fixed for home page
